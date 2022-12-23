@@ -1,14 +1,18 @@
-# Ny Company
+VueJS Login Template
 
-This template should help get you started developing with Vue 3 in Vite.
+A bare minimum Vue3 (composition api, Vite, Pinia) login template with Bootstrap 5.2. 
 
-## Recommended IDE Setup
+[![Demo recording]
+(https://youtu.be/5df_tJPYl1A "Demo recording")
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Features:
+* Sign in
+* Forgot Password
+* Create Account
+* Auth protected dashboard route
+* Ready Dark/Light theme setup with scss
+* Initial theme detected based on users device theme 
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
