@@ -1,0 +1,108 @@
+@font-face {
+    font-family: 'Metrisch';
+    src: url('Metrisch-ExtraLight.woff2') format('woff2'),
+        url('Metrisch-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Metrisch';
+    src: url('Metrisch-BookItalic.woff2') format('woff2'),
+        url('Metrisch-BookItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Metrisch';
+    src: url('Metrisch-Book.woff2') format('woff2'),
+        url('Metrisch-Book.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Metrisch';
+    src: url('Metrisch-ExtraBoldItalic.woff2') format('woff2'),
+        url('Metrisch-ExtraBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Metrisch';
+    src: url('Metrisch-ExtraBold.woff2') format('woff2'),
+        url('Metrisch-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Metrisch';
+    src: url('Metrisch-Medium.woff2') format('woff2'),
+        url('Metrisch-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Metrisch';
+    src: url('Metrisch-Bold.woff2') format('woff2'),
+        url('Metrisch-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Metrisch';
+    src: url('Metrisch-ExtraLightItalic.woff2') format('woff2'),
+        url('Metrisch-ExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Metrisch';
+    src: url('Metrisch-MediumItalic.woff2') format('woff2'),
+        url('Metrisch-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Metrisch';
+    src: url('Metrisch-BoldItalic.woff2') format('woff2'),
+        url('Metrisch-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Metrisch';
+    src: url('Metrisch-LightItalic.woff2') format('woff2'),
+        url('Metrisch-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Metrisch';
+    src: url('Metrisch-Light.woff2') format('woff2'),
+        url('Metrisch-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
