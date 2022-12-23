@@ -1,9 +1,9 @@
 VueJS Login Template
 
-A bare minimum Vue3 (composition api, Vite, Pinia) login template with Bootstrap 5.2. 
+A bare minimum, responsive Vue3 (using composition api, Vite, Pinia) login template with Bootstrap 5.2 & Bootstrap icons. 
 
-[![Demo recording]
-(https://youtu.be/5df_tJPYl1A "Demo recording")
+## Demo recording
+https://youtu.be/5df_tJPYl1A
 
 Features:
 * Sign in
@@ -12,6 +12,8 @@ Features:
 * Auth protected dashboard route
 * Ready Dark/Light theme setup with scss
 * Initial theme detected based on users device theme 
+* Using Bootstrap https://getbootstrap.com/
+* Using Bootstrap icons https://icons.getbootstrap.com/
 
 
 ## Project Setup
