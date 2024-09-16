@@ -6,7 +6,9 @@ A very simple flashlight animation that replaces the traditional password unmask
 https://playcode.io/2009346
 
 ## Demo Recording
-https://user-images.githubusercontent.com/36299957/209414055-31e43aec-1596-428f-ad0a-aa1866e10bb1.mp4
+https://github.com/user-attachments/assets/142333fc-cdb7-4b40-9978-c6f99ba7bd5e
+
+
 
 
 ## Project Setup
