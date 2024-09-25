@@ -1,6 +1,5 @@
-# Bouncuing Balls
-
-A canvas drawing with 5 balls that bounce off inside a circlar container. Balls get bigger each time they collide and get a color assigned from a color palette.
+# Bouncing Balls
+A canvas drawing with 5 balls that bounce off inside a circular container. Balls get a color assigned from a color palette & get bigger each time they collide.
 
 Next steps:
 * Make sure balls do not exceed the container boundry
@@ -14,7 +13,7 @@ Next steps:
 https://playcode.io/2021421
 
 ## Demo Recording
-
+https://github.com/user-attachments/assets/c88156b1-af77-4e06-a878-dabbdec8bccd
 
 
 
